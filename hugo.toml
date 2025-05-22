@@ -2,4 +2,4 @@ baseURL = 'https://roussev.dev'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
-theme = 'ananke'
+
